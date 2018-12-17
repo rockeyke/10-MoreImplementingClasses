@@ -297,6 +297,7 @@ class CapitalT(object):
         cap_t = CapitalT(intersection_center, width, height, letter_thickness)
         cap_t.set_colors(self.h_rect.fill_color, self.h_rect.outline_color)
         return cap_t
+        
         """
         What comes in:
           -- self
